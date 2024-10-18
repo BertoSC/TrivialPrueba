@@ -1,0 +1,14 @@
+{
+  "pregunta": "Esta es una pregunta",
+  "tipoPregunta": "MULTIPLE",
+  "dificultad": "EASY",
+  "categoria": {
+    "nome": "prueba"
+  },
+  "correcta": "Esta es la verdadera",
+  "incorrectas": [
+    "Esta no es",
+    "Esta tampoco",
+    "Vas mal"
+  ]
+}
