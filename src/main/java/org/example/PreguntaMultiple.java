@@ -27,7 +27,7 @@ public class PreguntaMultiple extends Pregunta {
 
     public void setOpIncorrectas(List<String> opIncorrectas) {
         this.opIncorrectas = opIncorrectas;
-    }
+    }c
 
     @Override
     public String toString() {
